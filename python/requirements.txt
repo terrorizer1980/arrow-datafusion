@@ -25,7 +25,7 @@ maturin==0.10.6 \
     --hash=sha256:d63f2a15f0b8db4e70d9a59766ca240b2c2ee2146ed5e4385a6118d941d68b25 \
     --hash=sha256:fa7e1cea2a768257a33aeb556fdec5fc36011bfe82d96730117433c635629dd8
     # via -r requirements.in
-numpy==1.20.3 \
+numpy==1.22.2 \
     --hash=sha256:1676b0a292dd3c99e49305a16d7a9f42a4ab60ec522eac0d3dd20cdf362ac010 \
     --hash=sha256:16f221035e8bd19b9dc9a57159e38d2dd060b48e93e1d843c49cb370b0f415fd \
     --hash=sha256:43909c8bb289c382170e0282158a38cf306a8ad2ff6dfadc447e90f9961bef43 \
