@@ -105,3 +105,4 @@ toml==0.10.2 \
     #   -r requirements.in
     #   maturin
     #   pytest
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
